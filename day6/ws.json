@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1001,
+        "wname": "python",
+        "year": "2019",
+        "status": 1,
+        "company": "TCS"
+    },
+    {
+        "id": 1002,
+        "wname": "Java",
+        "year": "2020",
+        "status": 1,
+        "company": "ITC"
+    }
+]
